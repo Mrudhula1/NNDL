@@ -15,3 +15,5 @@ This problem asks us to take an input from the user and replace any "python" pre
 Problem – 3
 
 This problem asks us to get class grade as an input and give out the grades as output using if else statements, so i use the variable "NN_class_score" to get the input from the user and construct an if else ladder so that the appropriate grades are displayed as outputs.
+
+Video link : https://share.vidyard.com/watch/DhwmRUbUJ52D2tcwKFRfDX?
